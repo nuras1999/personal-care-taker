@@ -2,6 +2,7 @@
 > She takes care of your health
 
 ## Overview
+- Make your friends and collegues think you are great by wondering how is she personally taking care of you.
 - Most of the people who spend alot of time with their PC don't think about their health.
 - Delayed food and sleep reduces thier productivity and creates several health issues.
 - This tool wishes thrice a day and remainds about our breakfast, lunch & dinner.
